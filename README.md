@@ -19,7 +19,7 @@ Acredito que web é a ferramenta mais poderosa para resolver problemas. Me dedic
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma&perline=6" />
   </a>
@@ -35,7 +35,7 @@ Acredito que web é a ferramenta mais poderosa para resolver problemas. Me dedic
 
 ### 📫 Minhas redes
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/cayomaia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
   <a href="cayohenryckweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>

@@ -1,42 +1,32 @@
-<h1 align="center">Olá, eu sou o Cayo 👋</h1>
+<h1 align="center">Cayo Maia</h1>
+<p align="center">Desenvolvedor web em formação | Engenharia de Software | Futuro especialista em Cibersegurança</p>
 
-<p align="center">
-  Estudante de Engenharia de Software apaixonado por construir aplicações web, com um forte interesse Cibersegurança.
+---
+
+### 👨‍💻 Sobre mim
+
+Atualmente curso Engenharia de Software e me dedico ao estudo prático de desenvolvimento web full-stack, com foco no ecossistema JavaScript (HTML, CSS, JS, Node.js, React).
+
+Também iniciei minha trajetória em Segurança da Informação, estudando princípios do OWASP e metodologias de Pentest. Meu objetivo é me tornar um profissional com ampla visão de segurança.
+
+---
+
+### 🧰 Tecnologias que estou usando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,firebase,figma&perline=6" />
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 📫 Onde me encontrar
 
-Acredito que web é a ferramenta mais poderosa para resolver problemas. Me dedico a projetos práticos para transformar teoria em experiência real.
-
-- 🎓 Atualmente curso Engenharia de Software.
-- 💻 Foco no desenvolvimento Full-Stack com o ecossistema JavaScript.
-- 🛡️ Aprofundando meus estudos em Segurança de Aplicações Web (OWASP) e metodologias de Pentest.
-- 🌱 Sempre procurando novos desafios.
-
----
-
-### 🛠️ Minhas Tecnologias & Ferramentas
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma&perline=6" />
+<p>
+  <a href="https://www.linkedin.com/in/cayomaia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Cayo%20Maia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
-
----
-
-### ✨ Projetos em Destaque
-
-🚧 EM CONSTRUÇÃO
-
----
-
-### 📫 Minhas redes
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/cayomaia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="cayohenryckweb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:cayohenryckweb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cayohenryckweb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
